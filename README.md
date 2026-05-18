@@ -34,17 +34,10 @@ Currently working with **Node.js**, **Go**, **Python**, **PHP/Laravel**, **React
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandro-parice&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leandro-parice&show_icons=true&theme=dark&hide_border=true" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-parice&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-parice&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150"/>
 </p>
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [project-name](https://github.com/leandro-parice/project-name) | Short description of what it does | Node.js, React |
-| [project-name](https://github.com/leandro-parice/project-name) | Short description of what it does | Go, PostgreSQL |
-| [project-name](https://github.com/leandro-parice/project-name) | Short description of what it does | PHP, Laravel |
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leandro-parice&theme=dark&hide_border=true"/>
+</p>
